@@ -114,6 +114,6 @@ L’environnement mis en place est **stable, sécurisé, fonctionnel et évoluti
 ## 👨‍💻 Auteur
 
 - **Nathan Gabriele**
-- 📧 Contact : [votre.email@domaine.com]
+- 📧 Contact : [nathangabriele.etudes@gmail.com]
 
 ---
